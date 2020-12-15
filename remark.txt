@@ -1,2 +1,5 @@
 This is my first remark.
-please note that this is an additional comment to my first remark.
+please note that this is an additional remark.
+
+This is my second remark.
+please note that this is another additional remark.
